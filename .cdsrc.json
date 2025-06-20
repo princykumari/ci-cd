@@ -1,0 +1,37 @@
+{
+    "odata": {
+        "flavor": "x4"
+      },
+      "requires": {
+
+        "cdsrc": {
+            "kind": "rest",
+            "credentials": {
+              "url": "https://0b4afccdtrial.it-cpitrial06-rt.cfapps.us10-001.hana.ondemand.com/http",
+              "authentication": "BasicAuthentication",
+              "username":"sb-f9dcea0e-be2c-412e-94b1-bd16d0291430!b430976|it-rt-0b4afccdtrial!b55215",
+              "password":"69b937cd-2862-4125-b239-27cee477ba20$pWEApcUHi1QWUBf7nRbYImzPTDgrQj1mwts12TR26Mw=",
+              "headers":{
+                "url": "",
+                "query":"",
+                "basis":""
+              },
+
+        "realm" : "PEOLSOLUTIONSDSAPP-T",
+        "pro_apikey" : "gG0vXlJzZg6UzopL6lRvVjBwQKTbR0WJ",
+        
+        "evt_apikey" : "RuU300xzEClMIpw8UBalRGERG9LQZcHG",
+        "evt_base" : "NTNiMTUxY2EtOTZkYS00ZmM2LWFlNDctZGNhMzg1YjA1ZDNlOkNqV04xbjB4akZ0QzQ5UFhSZnk2cUJORlhqak1sNjMy",
+
+        "pro_base" : "OWExNmQ1MzktYzg4Ni00N2EzLTgxYTItNmY2NzAwMjEyNmJlOjJ2WnBBYWtNVVdzaEozYTdMbTllZ2dTc3N1dzgya3Rs"
+       
+      
+            }
+            
+    
+      
+
+
+      }
+    }
+}
